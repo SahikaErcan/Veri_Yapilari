@@ -1,0 +1,4 @@
+﻿  QuickSort.cpp
+C:\Users\Excalibur\Desktop\isyeriEgitimi_SAHIKA_ERCAN\C_Programlama_Dili\VeriYapilari\Lesson_21\QuickSort.cpp(16,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+C:\Users\Excalibur\Desktop\isyeriEgitimi_SAHIKA_ERCAN\C_Programlama_Dili\VeriYapilari\Lesson_21\QuickSort.cpp(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+  Lesson_21.vcxproj -> C:\Users\Excalibur\Desktop\isyeriEgitimi_SAHIKA_ERCAN\C_Programlama_Dili\VeriYapilari\Debug\Lesson_21.exe

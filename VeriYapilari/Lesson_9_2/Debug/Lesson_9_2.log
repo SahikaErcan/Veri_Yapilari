@@ -1,0 +1,3 @@
+﻿  stack_linked_list.cpp
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_9_2\stack_linked_list.cpp(8,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  Lesson_9_2.vcxproj -> C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Debug\Lesson_9_2.exe

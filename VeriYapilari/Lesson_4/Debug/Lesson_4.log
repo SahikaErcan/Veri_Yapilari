@@ -1,0 +1,6 @@
+﻿  Lesson_4.cpp
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_4\Lesson_4.cpp(10,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_4\Lesson_4.cpp(10,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  Lesson_4.vcxproj -> C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Debug\Lesson_4.exe
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_4\Lesson_4.cpp(46): warning C6011: Dereferencing NULL pointer 'temp'. 
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_4\Lesson_4.cpp(25): warning C6011: Dereferencing NULL pointer 'r'. 

@@ -1,0 +1,7 @@
+﻿  bkutuphane.cpp
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_7\bkutuphane.h(11,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  Lesson_7.cpp
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_7\Lesson_7.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Lesson_7\bkutuphane.h(11,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  Generating Code...
+  Lesson_7.vcxproj -> C:\Users\Excalibur\Desktop\C_Programlama_Dili\VeriYapilari\Debug\Lesson_7.exe
